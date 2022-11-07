@@ -11,7 +11,7 @@ This eco system supports three contracts:
 
 Данная экосистема построенна на трёх смарт-контрактах:
 
-1. [Token Selling Contract](./commands/tokenseller/README.md): Позволяет пользователям покупать произвольные токены через контракт
+1. [Token Selling Contract](./commands/tokenseller/README.md): Позволяет пользователям покупать токены VGB через контракт
 2. [ZTH Distribution Contract](./commands/zthdistributor/README.md): Периодически распределяет токены ZTH среди владельцев токена VGB из контракта на продажу токенов
 3. [ZTH Payer Contract](./commands/zthpayer/README.md): Выплачивает SIGNA держателям токенов ZTH.
 
