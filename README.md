@@ -22,3 +22,5 @@ This eco system supports three contracts:
 Before running for the first time run: `npm i` (to install all needed dependencies)
 
 Just run `npm start` and follow the instructions
+
+For donations: S-SNLA-KV2Z-QC2T-7DEXL
