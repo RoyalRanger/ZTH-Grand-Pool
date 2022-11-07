@@ -3,7 +3,7 @@ Pays SIGNA to ZTH Token Holders
 Выплачивает SIGNA держателям токенов ZTH
 
 Basic information:
-Базовая информация
+Базовая информация:
 
 TEST NET:
 
