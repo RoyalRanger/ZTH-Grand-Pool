@@ -25,6 +25,7 @@ Issuance Tx Full Hash: E6455035238217841D8392A2D0C160FE0765473D4E3ED1B85D099466D
 # Smart Contract
 
 Logic: Proportionally, pays out to token holders of the given token once the accumulated balance is greater than 100 SIGNA
+
 Логика: Пропорциональные выплаты держателям данного токена, как только накопленный на контракте баланс превышает 100 SIGNA
 
 ## Creating the contract (Создание контракта)
@@ -55,6 +56,7 @@ During the creation the following parameters can be configured:
 
 Disables the contract and pays out remaining balance to all token holders proportionally.
 After contract is disabled no payouts are possible anymore, and all sent amount to the contract is being returned (minus activation/execution costs) to the sender.
+
 Отключает контракт и пропорционально выплачивает оставшийся баланс всем держателям токенов.
 После отключения контракта выплаты больше невозможны, и вся отправленная сумма по контракту возвращается отправителю (за вычетом затрат на активацию/исполнение).
 
@@ -65,6 +67,7 @@ Command: 'die'
 ### Change Token Price (Изменить цену токена)
 
 Changes the price (in SIGNA) of the token (Default: 250 SIGNA)
+
 Изменяет цену (в SIGNA) токена (по умолчанию: 250 SIGNA)
 
 Permission: Creator Only
