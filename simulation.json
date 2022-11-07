@@ -1,0 +1,35 @@
+[
+  // Read the complete help at https://github.com/deleterium/SC-Simulator/blob/main/README.md
+  {
+    "blockheight": 2,
+    "sender": "10000n",
+    "recipient": "999n",
+    "amount": "50_0000_0000n"
+  },
+  {
+    "blockheight": 4,
+    "sender": "10001n",
+    "recipient": "999n",
+    "amount": "51_0000_0000n"
+  },
+  {
+    "blockheight": 6,
+    "sender": "10000n",
+    "recipient": "999n",
+    "amount": "2500_0000n",
+    "messageText": "die"
+  },
+  {
+    "blockheight": 8,
+    "sender": "555n", // creator
+    "recipient": "999n",
+    "amount": "2500_0000n",
+    "messageText": "die"
+  },
+  {
+    "blockheight": 10,
+    "sender": "10001n",
+    "recipient": "999n",
+    "amount": "151_0000_0000n"
+  }
+]

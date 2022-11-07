@@ -1,0 +1,39 @@
+{
+  "name": "zth",
+  "version": "1.0.0",
+  "description": "Toolbox for the ZTH Payout smart contract",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohager/zth.git"
+  },
+  "keywords": [
+    "signum",
+    "smart",
+    "contract",
+    "tokenomics",
+    "zth",
+    "blockchain",
+    "web3"
+  ],
+  "author": "ohager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohager/zth/issues"
+  },
+  "homepage": "https://github.com/ohager/zth#readme",
+  "dependencies": {
+    "@signumjs/contracts": "^1.0.0-rc.41",
+    "@signumjs/core": "^1.0.0-rc.41",
+    "@signumjs/crypto": "^1.0.0-rc.41",
+    "@signumjs/util": "^1.0.0-rc.41",
+    "inquirer": "^8.2.4"
+  }
+}
