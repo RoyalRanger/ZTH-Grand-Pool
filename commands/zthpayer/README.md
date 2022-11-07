@@ -31,6 +31,7 @@ Additional methods:
 
 Disables the contract and pays out remaining balance to all token holders proportionally.
 After contract is disabled no payouts are possible anymore, and all sent amount to the contract is being returned (minus activation/execution costs) to the sender.
+
 Отключает контракт и пропорционально выплачивает оставшийся баланс всем держателям токенов.
 После отключения контракта выплаты больше невозможны, и вся отправленная сумма по контракту возвращается отправителю (за вычетом затрат на активацию/исполнение).
 
@@ -42,6 +43,7 @@ Command: 'die'
 ### Change Payout Threshold (Изменить порог выплаты)
 
 Changes the minimum value to dispatch payouts (Default: 100 SIGNA)
+
 Изменяет минимальное значение для отправки выплат (по умолчанию: 100 SIGNA)
 
 Permission: Creator Only
@@ -54,6 +56,7 @@ Argument: Minimum Value in Planck
 ### Change ZTH Threshold (Выбор минимального значения владения ZTH)
 
 Changes the minimum quantity of ZTH Tokens necessary to get payouts.
+
 Изменяет минимальное количество токенов ZTH, необходимое для получения выплат.
 
 Permission: Creator Only
