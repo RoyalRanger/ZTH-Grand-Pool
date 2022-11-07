@@ -20,7 +20,8 @@ Issuance Tx Full Hash: E6455035238217841D8392A2D0C160FE0765473D4E3ED1B85D099466D
 # Smart Contract
 
 Logic: Proportionally, pays out to token holders of the given token once the accumulated balance is greater than 100 SIGNA
-> Логика: Пропорционально выплачивает SIGNA держателям токенов ZTH, как только накопленный баланс превышает 100 SIGNA
+
+Логика: Пропорционально выплачивает SIGNA держателям токенов ZTH, как только накопленный баланс превышает 100 SIGNA
 
 
 Additional methods:
