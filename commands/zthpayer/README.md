@@ -51,6 +51,7 @@ Command: 'cthsig'
 Argument: Minimum Value in Planck 
 
 > Sending arguments needs to be done in hex converted values...use the toolbox to do that
+> 
 > Отправка аргументов должна выполняться в шестнадцатеричных преобразованных значениях...используйте для этого toolbox
 
 ### Change ZTH Threshold (Выбор минимального значения владения ZTH)
