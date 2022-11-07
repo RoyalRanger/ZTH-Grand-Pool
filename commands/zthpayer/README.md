@@ -64,4 +64,5 @@ Command: 'cthzth'
 Argument: Minimum Quantity, i.e. 10 would be 1.0 (as ZTH has 1 decimal)
 
 > Sending arguments needs to be done in hex converted values...use the toolbox to do that
+> 
 > Отправка аргументов должна выполняться в шестнадцатеричных преобразованных значениях...используйте для этого toolbox
